@@ -8,7 +8,8 @@
 ### 4: https://github.com/wehr-to/netmiko-ops-scripts - A curated stack of protoyped network automation scripts, with the pseudologic written out with each script to reinforce the *why* behind each script and it's function, using the netmiko library within cisco workshops. 
 
 ## Case-Studies
-### 1: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
+### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering
+### 2: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
 
 
 ## Study-Guides

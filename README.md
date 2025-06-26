@@ -9,6 +9,7 @@
 ### 4: https://github.com/wehr-to/netmiko-ops-scripts - A curated stack of protoyped network automation scripts, with the pseudocode written out with each script to reinforce the *why* behind each script and it's function, using the netmiko library within cisco workshops. 
 ### 5: https://github.com/wehr-to/cisco-ops-manual - A practical simulated operations manual that reflects the difficulty level of the CCNP exam, aimed to mimick real day-to-day network engineering tasks and provide insight to the role's responsibilities and see things from a network engineers perspective.
 ### 6: https://github.com/wehr-to/network-design-case-studies - This repository documents network design patterns, case studies, and reference architectures with a focus on real-world enterprise infrastructure. It combines the perspective of a network engineer and a security engineer, asking not only “how do packets flow?” but also “how do we protect them?”
+### 7: https://github.com/wehr-to/wireshark-playbook - This repository contains hands-on labs and investigative writeups designed to deepen my understanding of protocol behavior, traffic patterns, and forensic network analysis.
 
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering

@@ -10,3 +10,5 @@
 ### 1: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
 
 
+## Study-Guides
+### 1: https://github.com/wehr-to/CCNA-Study-Guide - A proof-of-concept of my understanding of the CCNA exam material, with testing strategies, command lists, theory, and study material references 

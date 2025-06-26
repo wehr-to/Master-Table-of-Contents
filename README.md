@@ -1,5 +1,5 @@
 # Master-Table-of-Contents
-A complete organized guide to every repository I have and the *why* I built it
+- A complete organized guide to every repository I have and the *why* I built it
 
 ## Infra: 
 ### 1: https://github.com/wehr-to/linux-hardening-toolkit - I built this toolkit to harden the environments almost everything in a real org runs on

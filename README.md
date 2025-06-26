@@ -3,6 +3,7 @@
 ### A complete map of every repo I've built and why, covering **Infra**, **SIEM**, **OffSec**, **AppSec**, **Cloud**, **Case Studies**, **Study Guides**, and other fun projects. 
 
 ## Infra: 
+
 ### 1: https://github.com/wehr-to/netgate-homelab-ops - My flagship project, my Netgate 6100, Raspberry Pi 5, and Ryzen 7 PC homelab, fully operational and mapped out, serving as an educational simulation of blue team enterprise operations
 ### 2: https://github.com/wehr-to/linux-hardening-toolkit - I built this toolkit to harden the environments almost everything in a real org runs on, each module is meant to be tweakable for different production stacks.
 ### 3: https://github.com/wehr-to/network-telemetry - This repository goes beyond analyzing dashboards it focuses on understanding **where telemetry comes from**, **what data matters**, and **how to extract it** for real network insight using SNMP, NetFlow, and Syslog. It's about the ingestion layer, not just the visual output.
@@ -20,7 +21,25 @@
 ### 15: https://github.com/wehr-to/Nessus-Learning-Lab - A structured, hands-on repository to learn Nessus for vulnerability scanning, scan configuration, report generation, and automation using CLI and API.
 ### 16: https://github.com/wehr-to/OpenVAS-Learning-Labs - A structured, hands-on repository to master OpenVAS (Open Vulnerability Assessment System) for vulnerability scanning, configuration, reporting, and automation.
 ### 17: https://github.com/wehr-to/windows-defender-enhanced - This repository enhances the built-in Windows Defender Antivirus through structured hardening, performance tuning, event logging, and SIEM integration.
-### 18: 
+### 18: https://github.com/wehr-to/CIA-Triad-Auditing-Framework - This project is designed to enforce disciplined and professional auditing practices across systems, scripts, and threat hunting efforts using the foundational pillars of cybersecurity: Confidentiality, Integrity, and Availability (CIA). It ensures all security activities are measured, justified, and compliant with risk-based decision making.
+### 19: https://github.com/wehr-to/crowdstrike-ops-toolkit - Operational playbooks, deployment guides, and automation tooling for CrowdStrike Falcon, covering agent installation, CLI queries, detection response workflows, and multi-platform management.
+### 20: https://github.com/wehr-to/network-security-lab - A comprehensive, protocol-aware, attack-driven network security repo covering both on-prem and cloud networking.
+### 21: https://github.com/wehr-to/container-ops-toolkit - This repository contains hardened, automated, and security-focused operational practices for working with Docker and Kubernetes in modern environments. From provisioning to post-deploy scanning, this repo is built to model container management as a secure engineering discipline, not just deployment.
+### 22: https://github.com/wehr-to/sase-sse-enterprise - This repository provides a full-stack reference architecture and practical implementation for Secure Access Service Edge (SASE) and Security Service Edge (SSE) models in a modern enterprise environment.
+### 23: https://github.com/wehr-to/secrets-mgmt-toolkit - This toolkit reflects a real-world understanding of how teams adopt, misuse, and secure secrets, and provides modular, pluggable patterns using trusted tools like Vault, Doppler, and SOPS.
+### 24: https://github.com/wehr-to/suricata-ops-toolkit - This toolkit is for educational, research, and defensive operational purposes only. Ensure deployments follow your organization’s security policy and compliance frameworks.
+### 25: https://github.com/wehr-to/neovim-ops-manual - This repo documents my process of learning and configuring Neovim for use in security engineering workflows. It’s meant to serve as a personal knowledge base, reference toolkit, and example of terminal-first proficiency.
+### 26: https://github.com/wehr-to/ssl-lifecycle-ops - This repo covers the full lifecycle of SSL/TLS certificate management, including issuance, renewal, monitoring, failure handling, and automation. SSL mishandling causes real outages and trust breakdowns
+### 27: https://github.com/wehr-to/compliance-as-code-toolkit - This repository contains automation resources for implementing Compliance as Code, using Terraform, Ansible, and shell scripts to enforce security benchmarks and regulatory controls such as CIS, NIST 800-53, and SOC 2. It’s designed to simulate how cloud and infrastructure teams can build compliance into their provisioning pipelines.
+### 28: https://github.com/wehr-to/infra-unit-testing-lab - This repository explores unit testing in infrastructure and automation workflows, ensuring that what we provision, configure, or secure behaves as expected before it hits production.
+### 29: https://github.com/wehr-to/infra-change-control - This repository contains a Change Management Toolkit designed to simulate how modern infrastructure teams safely introduce, validate, and track infrastructure changes across environments.
+### 30: https://github.com/wehr-to/linux-directory-primer - This repository documents the 50 most essential Linux directories for infrastructure, security, automation, and forensic engineering.
+### 31: https://github.com/wehr-to/vmware-infra-scripts - A curated collection of scripts for automating and managing VMware vSphere infrastructure, including PowerCLI, PyVmomi (Python SDK), and Bash guest OS operations. 
+### 32: https://github.com/wehr-to/ops-best-practices - A practical collection of cloud, security, and automation best practices. Includes IAM design, network segmentation, hardening, IaC standards, logging, and CI/CD hygiene.
+### 33: https://github.com/wehr-to/powershell-ops-scripts - A practical collection of PowerShell scripts for Windows administration and security. Includes user management, scheduled tasks, patching, system audits, hardening, and automation workflows.
+### 34: https://github.com/wehr-to/grafana-ops-toolkit - A hands-on toolkit for managing, provisioning, and securing Grafana environments, including dashboards, alerts, data sources, and automation scripts.
+### 35: https://github.com/wehr-to/infra-bootstrapping - This repository contains hardened provisioning scripts, templates, and automation routines designed to bootstrap secure infrastructure from day one.
+### 36: https://github.com/wehr-to/pfsense-ops-toolkit - Automated configuration management and monitoring toolkit for pfSense firewall/router systems.
 
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering

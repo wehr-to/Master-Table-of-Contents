@@ -41,9 +41,29 @@
 ### 35: https://github.com/wehr-to/infra-bootstrapping - This repository contains hardened provisioning scripts, templates, and automation routines designed to bootstrap secure infrastructure from day one.
 ### 36: https://github.com/wehr-to/pfsense-ops-toolkit - Automated configuration management and monitoring toolkit for pfSense firewall/router systems.
 
+## SIEM
+
+### 1: https://github.com/wehr-to/wazuh-scripts-toolkit - A collection of scripts, helpers, and automation tools for managing, tuning, and integrating Wazuh, This toolkit is designed for SOC analysts, security engineers, and homelabbers who want to automate Wazuh operations, debug rules, parse logs, and forward alerts with minimal friction.
+### 2: https://github.com/wehr-to/TOR-Detection-Toolkit - This project provides a comprehensive, operationally-focused toolkit to detect, analyze, and mitigate malicious or unauthorized use of The Onion Router (TOR) within enterprise networks.
+### 3: https://github.com/wehr-to/clamav-learning-lab - A hands-on, structured repository to learn ClamAV for malware scanning, signature writing, daemon usage, and automation.
+### 4: https://github.com/wehr-to/splunk-ops-toolkit - Splunk Ops Toolkit is a field-ready, operations-focused repository built to help teams deploy, manage, and optimize Splunk in real-world environments.
+### 5: https://github.com/wehr-to/file-integrity-malware-classifier - Securely upload files, compute hashes (MD5/SHA256), and compare against known indicators of compromise (IoCs) or suspicious metadata. A DFIR-lite simulation tool.
+### 6: https://github.com/wehr-to/log-anomaly-detector - A Python-based toolkit that parses Apache/Nginx logs, applies anomaly detection rules, and flags suspicious activity such as request floods, suspicious IPs, or SQLi attempts.
+### 7: https://github.com/wehr-to/sigma-rule-lab - Welcome to the Sigma Rule Lab, a structured repo for learning how to write, test, and simulate Sigma rules like a modern blue teamer or security engineer.
+### 8: https://github.com/wehr-to/powershell-suspicious-vs-benign - This repository catalogs examples of PowerShell activity categorized as benign or suspicious, helping defenders, blue teamers, and analysts better understand and detect malicious behavior in PowerShell scripts and execution patterns.
+### 9: https://github.com/wehr-to/SOAR-Lab - This repository simulates real-world SOAR (Security Orchestration, Automation, and Response) workflows, playbooks, and tool integrations. It's designed for analysts and engineers building hands-on automation skills.
+### 10: https://github.com/wehr-to/tooling-evaluation-lab - A structured repo for evaluating, comparing, and documenting security tooling tradeoffs. This lab tests open-source and commercial options head-to-head, helping practitioners think critically about what to deploy and why.
+### 11: https://github.com/wehr-to/security-test-coverage-framework - This repository formalizes the process of asking: "Have we detected everything that matters?" across MITRE ATT&CK techniques. It provides a structured, testable, and repeatable way to evaluate visibility, detection quality, and priority coverage.
+### 12: https://github.com/wehr-to/threat-hunting-lab - Simulate advanced detection workflows using MITRE TTPs, behavioral signals, and live log telemetry. This repo is built to reflect how mature SOC and detection engineering teams approach adversary emulation, logging analysis, and iterative hunt refinement.
+### 13: https://github.com/wehr-to/memory-process-forensics-lab - This repository contains tools, labs, and techniques for analyzing live Linux systems and memory captures. It focuses on understanding how processes behave at a low level, how attackers may attempt to hide, and how defenders can spot forensic clues left behind (*all hypothetical*) 
+### 14: https://github.com/wehr-to/log-pipeline-lab - This repository contains labs, configs, and architecture breakdowns for building, securing, and troubleshooting full log pipelines, from endpoint to SIEM or archive.
+### 15: https://github.com/wehr-to/detection-logic-lab - This repository is dedicated to building real-world detection engineering skills, turning raw event data into meaningful, high-signal alerts mapped to attacker behavior. It includes Sigma-to-KQL conversions, custom rules for Wazuh, Sysmon, and Auditd, enrichment strategies, MITRE mappings, and lab simulations to stress-test my detection logic.
+### 16: https://github.com/wehr-to/incident-response-toolkit - A hands-on, scriptable, and documentation-driven incident response toolkit built for SOC analysts, blue teamers, and security engineers. This repo provides templates, playbooks, collection scripts, and checklists to streamline the investigation and containment of security incidents.
+
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering
 ### 2: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
+
 
 
 ## Study-Guides

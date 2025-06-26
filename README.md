@@ -1,5 +1,6 @@
 # Master-Table-of-Contents
-- A complete organized guide to every repository I have and the *why* I built it, spanning across the following categories: Infra, SIEM, OffSec, AppSec, Cloud, Case Studies, Study Guides, and other fun things
+
+### A complete map of every repo I've built and why, covering **Infra**, **SIEM**, **OffSec**, **AppSec**, **Cloud**, **Case Studies**, **Study Guides**, and other fun projects. 
 
 ## Infra: 
 ### 1: https://github.com/wehr-to/netgate-homelab-ops - My flagship project, my Netgate 6100, Raspberry Pi 5, and Ryzen 7 PC homelab, fully operational and mapped out, serving as an educational simulation of blue team enterprise operations

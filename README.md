@@ -12,6 +12,15 @@
 ### 7: https://github.com/wehr-to/wireshark-playbook - This repository contains hands-on labs and investigative writeups designed to deepen my understanding of protocol behavior, traffic patterns, and forensic network analysis.
 ### 8: https://github.com/wehr-to/dns-ops-and-security - This repository explores DNS from both operational and security perspectives. It includes labs, threat detection techniques, protocol comparisons, and real-world misconfig scenarios.
 ### 9: https://github.com/wehr-to/windows-internals-toolkit - A hands on blue team focused toolkit to explore and baseline Windows internals across file systems, processes, services, and malware artifacts (*no live malware included*)
+### 10: https://github.com/wehr-to/active-directory-hardening-toolkit - This repository contains security best practices, hardening scripts, detection logic, and blue team simulations for securing Windows and Active Directory environments. 
+### 11: https://github.com/wehr-to/ansible-ops-toolkit - A practical network automation toolkit using Ansible, featuring playbooks, roles, Jinja2 templates, and scripts for managing Cisco and other network infrastructure.
+### 12: https://github.com/wehr-to/terraform-ops-toolkit - This repository contains modular Terraform infrastructure templates, reusable provisioning modules, and helper utilities designed to manage secure, scalable environments across AWS and Azure.
+### 13: https://github.com/wehr-to/Linux-Admin-and-Automation - Multi-distro Linux administration and automation toolkit, built across Ubuntu, Debian, Arch, and Kali to demonstrate practical operations, secure configuration, and scripted efficiency.
+### 14: https://github.com/wehr-to/windows-hardening-framework - This repository was designed to be a hands-on study aid for the CySA+ exam for particular domains and also strengthen my windows fundamentals within the security discipline.
+### 15: https://github.com/wehr-to/Nessus-Learning-Lab - A structured, hands-on repository to learn Nessus for vulnerability scanning, scan configuration, report generation, and automation using CLI and API.
+### 16: https://github.com/wehr-to/OpenVAS-Learning-Labs - A structured, hands-on repository to master OpenVAS (Open Vulnerability Assessment System) for vulnerability scanning, configuration, reporting, and automation.
+### 17: https://github.com/wehr-to/windows-defender-enhanced - This repository enhances the built-in Windows Defender Antivirus through structured hardening, performance tuning, event logging, and SIEM integration.
+### 18: 
 
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering

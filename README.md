@@ -40,6 +40,7 @@
 ### 34: https://github.com/wehr-to/grafana-ops-toolkit - A hands-on toolkit for managing, provisioning, and securing Grafana environments, including dashboards, alerts, data sources, and automation scripts.
 ### 35: https://github.com/wehr-to/infra-bootstrapping - This repository contains hardened provisioning scripts, templates, and automation routines designed to bootstrap secure infrastructure from day one.
 ### 36: https://github.com/wehr-to/pfsense-ops-toolkit - Automated configuration management and monitoring toolkit for pfSense firewall/router systems.
+### 37: https://github.com/wehr-to/Arch-Linux-Install - My approach to installing Arch Linux for blue team operations 
 
 ## SIEM
 

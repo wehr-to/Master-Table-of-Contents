@@ -40,7 +40,11 @@
 ### 34: https://github.com/wehr-to/grafana-ops-toolkit - A hands-on toolkit for managing, provisioning, and securing Grafana environments, including dashboards, alerts, data sources, and automation scripts.
 ### 35: https://github.com/wehr-to/infra-bootstrapping - This repository contains hardened provisioning scripts, templates, and automation routines designed to bootstrap secure infrastructure from day one.
 ### 36: https://github.com/wehr-to/pfsense-ops-toolkit - Automated configuration management and monitoring toolkit for pfSense firewall/router systems.
-### 37: https://github.com/wehr-to/Arch-Linux-Install - My approach to installing Arch Linux for blue team operations 
+### 37: https://github.com/wehr-to/Arch-Linux-Install - My approach to installing Arch Linux for blue team operations.
+### 38: https://github.com/wehr-to/custom-packet-crafter - Craft, send, and sniff custom packets using Scapy efficiently.
+### 39: https://github.com/wehr-to/nginx-security-ops - This repository provides a structured, security-focused operational toolkit for managing, hardening, monitoring, and automating NGINX in production environments.
+### 40: https://github.com/wehr-to/jira-ops-manual - Automate and enforce advanced Jira operations and hygiene for security teams to improve triaging, SLA tracking, and ticket hygiene within Jira environments.
+### 41: https://github.com/wehr-to/okta-ops-repo - This repository manages Okta configurations and operations securely using Terraform and Python automation.
 
 ## SIEM
 

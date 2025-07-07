@@ -64,12 +64,24 @@
 ### 14: https://github.com/wehr-to/log-pipeline-lab - This repository contains labs, configs, and architecture breakdowns for building, securing, and troubleshooting full log pipelines, from endpoint to SIEM or archive.
 ### 15: https://github.com/wehr-to/detection-logic-lab - This repository is dedicated to building real-world detection engineering skills, turning raw event data into meaningful, high-signal alerts mapped to attacker behavior. It includes Sigma-to-KQL conversions, custom rules for Wazuh, Sysmon, and Auditd, enrichment strategies, MITRE mappings, and lab simulations to stress-test my detection logic.
 ### 16: https://github.com/wehr-to/incident-response-toolkit - A hands-on, scriptable, and documentation-driven incident response toolkit built for SOC analysts, blue teamers, and security engineers. This repo provides templates, playbooks, collection scripts, and checklists to streamline the investigation and containment of security incidents.
+### 17: https://github.com/wehr-to/honeypot-labs - This repository provides a modular, containerized honeypot framework for safely simulating and capturing attacker activities using TCP, HTTP, and SSH honeypots.
 
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering
 ### 2: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
-
-
+### 3: https://github.com/wehr-to/attack-type-case-study - a structured knowledge base focused on understanding cyber attack techniques across multiple domains including network security, web application security, cloud environments, social engineering, and advanced persistent threats (APTs).
+### 4: https://github.com/wehr-to/tech-debt-security-case-study - This repo is a case study-driven exploration of how technical debt intersects with security and how to manage, reduce, or contain it when full rewrites aren't possible.
+### 5: https://github.com/wehr-to/digital-forensics-case-studies - This repository contains simulated case studies and investigations covering endpoint, memory, filesystem, and network-based digital forensics. Each folder is a step-by-step walkthrough of how artifacts were identified, timelines were built, and conclusions were drawn, using real tools and forensic logic.
+### 6: https://github.com/wehr-to/malware-analysis-case-study 
+### 7: https://github.com/wehr-to/cybersec-interview-lab - A structured, high-signal preparation lab for blue team, detection, and security engineering interviews.
+### 8: https://github.com/wehr-to/systems-design-case-studies - This repository contains real-world case studies and architecture breakdowns for various system designs, from internal tools and scalable web apps to event pipelines, authentication layers, and message queues. Each case explores scalability, availability, performance, and security trade-offs.
+### 9: https://github.com/wehr-to/infra-cost-case-studies - Simulated cost breakdowns of AWS infrastructure designs, built with a cost-conscious mindset and an emphasis on aligning engineering decisions with business and budgetary objectives.
+### 10: https://github.com/wehr-to/network-design-case-studies - This repository documents network design patterns, case studies, and reference architectures with a focus on real-world enterprise infrastructure.
+### 11: https://github.com/wehr-to/on-call-simulation-lab - This repo simulates real-world on-call incidents to build muscle memory around triage, communication, tooling, and escalation. It’s built for security analysts, infra engineers, and operations-minded devs who want to be ready when production breaks.
+### 12: https://github.com/wehr-to/CompSci-Basics - This repository is structured to help learn foundational computer science concepts with a direct focus on application security readiness.
+### 13: https://github.com/wehr-to/legacy-adoption-scenario - This repository documents how a security professional with no prior engineering background can systematically adopt, understand, and safely operate legacy tools and systems.
+### 14: https://github.com/wehr-to/sysadmin-ops-repo - A structured, practical knowledge base and lab repository for day-to-day system administration with a Blue Team perspective
+### 15: https://github.com/wehr-to/MSP-Ops-Manual - A structured, professional MSP Operations Manual repository for Tier 1 analysts
 
 ## Study-Guides
 ### 1: https://github.com/wehr-to/CCNA-Study-Guide - A proof-of-concept of my understanding of the CCNA exam material, with testing strategies, command lists, theory, and study material references 

@@ -3,7 +3,6 @@
 ### A complete map of every repo I've built and why, covering **Infra**, **SIEM**, **OffSec**, **AppSec**, **Cloud**, **Case Studies**, **Study Guides**, and other fun projects. 
 
 ## Infra: 
-
 ### 1: https://github.com/wehr-to/netgate-homelab-ops - My flagship project, my Netgate 6100, Raspberry Pi 5, and Ryzen 7 PC homelab, fully operational and mapped out, serving as an educational simulation of blue team enterprise operations
 ### 2: https://github.com/wehr-to/linux-hardening-toolkit - I built this toolkit to harden the environments almost everything in a real org runs on, each module is meant to be tweakable for different production stacks.
 ### 3: https://github.com/wehr-to/network-telemetry - This repository goes beyond analyzing dashboards it focuses on understanding **where telemetry comes from**, **what data matters**, and **how to extract it** for real network insight using SNMP, NetFlow, and Syslog. It's about the ingestion layer, not just the visual output.
@@ -47,7 +46,6 @@
 ### 41: https://github.com/wehr-to/okta-ops-repo - This repository manages Okta configurations and operations securely using Terraform and Python automation.
 
 ## SIEM
-
 ### 1: https://github.com/wehr-to/wazuh-scripts-toolkit - A collection of scripts, helpers, and automation tools for managing, tuning, and integrating Wazuh, This toolkit is designed for SOC analysts, security engineers, and homelabbers who want to automate Wazuh operations, debug rules, parse logs, and forward alerts with minimal friction.
 ### 2: https://github.com/wehr-to/TOR-Detection-Toolkit - This project provides a comprehensive, operationally-focused toolkit to detect, analyze, and mitigate malicious or unauthorized use of The Onion Router (TOR) within enterprise networks.
 ### 3: https://github.com/wehr-to/clamav-learning-lab - A hands-on, structured repository to learn ClamAV for malware scanning, signature writing, daemon usage, and automation.
@@ -108,6 +106,26 @@
 ### 22: https://github.com/wehr-to/debugging-case-study - This repository contains a structured, advanced computer science adjacent debugging code case study. It includes intentionally faulty modules, correct reference modules, edge case handlers, and layered structured experiments to demonstrate systematic debugging strategies.
 ### 23: https://github.com/wehr-to/owasp-zap-learning - This repository is designed to help you learn, practice, and automate web application security testing using OWASP ZAP, with structured labs, practical scripts, Docker environment, and CI/CD integrations.
 
+## OffSec
+### 1: https://github.com/wehr-to/JtR-Learning-Lab - A hands-on, structured repository to learn John the Ripper (JtR)
+### 2: https://github.com/wehr-to/SQLmap-Learning-Labs - A hands-on, structured repository to learn SQLmap, the open-source tool for automated SQL injection detection and exploitation
+### 3: https://github.com/wehr-to/Maltego-Learning-Lab - A structured repository to learn and apply Maltego for OSINT, cyber investigations, infrastructure mapping, and graph-based intelligence analysis.
+### 4: https://github.com/wehr-to/AircrackNG-Learning-Lab - A structured, hands-on repository to learn Aircrack-NG for WiFi network auditing, packet capturing, key cracking, and automation in legal and controlled environments.
+### 5: https://github.com/wehr-to/red-teaming-lab - A comprehensive and modular offensive security learning and operations framework focused on Kali Linux, Red Team tools, post-exploitation, and adversary emulation. This repository structures content by tactics, tools, and techniques inspired by real-world attack workflows and MITRE ATT&CK.
+### 6: https://github.com/wehr-to/nmap-learning-lab - A structured, hands-on repository to master Nmap – the powerful network discovery and security auditing tool. Includes real-world labs, scan profiles, NSE scripting, and automation.
+### 7: https://github.com/wehr-to/reverse-engineering-labs - This repository is a curated learning guide for learning reverse engineering and low-level security analysis. It includes structured paths to build foundational knowledge, practical debugging exercises, malware analysis labs, and advanced exploitation techniques. Designed for ethical learners, security enthusiasts, and aspiring analysts
+### 8: https://github.com/wehr-to/post-exploitation-lab - Understand the tactics, techniques, and procedures (TTPs) attackers use after initial access, and how defenders detect, correlate, and respond to them.
+### 9: https://github.com/wehr-to/threat-emulation-c2-lab - Simulate command-and-control (C2) infrastructure, data exfiltration, and detection pipelines to demonstrate deep knowledge of adversary behavior and blue team response.
+### 10: https://github.com/wehr-to/Red-vs-Blue-Lab - This repo simulates small, CTF-style attack-defense labs to help me sharpen my skills across the full security loop: exploitation > detection > response.
+### 11: https://github.com/wehr-to/VPN-Tunneling-Lab - A structured VPN Tunneling Operations repository
+### 12: https://github.com/wehr-to/metasploit-ruby-pentesting - This extensive Metasploit learning repo will help systematically learn Ruby scripting for Metasploit, its syntax, logic, and operational use for pentesting workflows.
+
+## Cloud
+### 1: https://github.com/wehr-to/cloud-security-ops - A SecEng toolkit for building, automating, and defending cloud infrastructure in AWS and Azure. This repo covers provisioning, hardening, threat detection, and incident workflows, with deep coverage of AWS GuardDuty, Azure Sentinel, and detection-as-code.
+### 2: https://github.com/wehr-to/iam-deep-dive-and-labs - A complete identity and access management (IAM) security toolkit, from fundamentals to advanced misconfiguration attack paths, detection, and hands-on simulation. IAM is the beating heart of modern security. This repo teaches you how to configure it, break it, and defend it.
+### 3: https://github.com/wehr-to/zero-trust-blueprint - This repository simulates a modern Zero Trust architecture across identity, device posture, network segmentation, access control, and telemetry. Through labs, Terraform examples, and policy walkthroughs, it demonstrates what it means to enforce security without relying on implicit trust, at any layer.
+### 4: https://github.com/wehr-to/misconfig-sim-lab - This repository contains simulations of common cloud and infrastructure misconfigurations, and the tools, scripts, and detection logic used to uncover and prevent them.
+### 5: https://github.com/wehr-to/aws-guardduty-threat-simulation-lab - Simulated unauthorized activity in AWS to evaluate GuardDuty detection and alerting. Includes high-level architecture, detection flow, and lessons learned from building a secure, automated cloud threat simulation lab using best practices.
 
 ## Study-Guides
 ### 1: https://github.com/wehr-to/CCNA-Study-Guide - A proof-of-concept of my understanding of the CCNA exam material, with testing strategies, command lists, theory, and study material references 

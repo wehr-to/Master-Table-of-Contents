@@ -63,6 +63,7 @@
 ### 15: https://github.com/wehr-to/detection-logic-lab - This repository is dedicated to building real-world detection engineering skills, turning raw event data into meaningful, high-signal alerts mapped to attacker behavior. It includes Sigma-to-KQL conversions, custom rules for Wazuh, Sysmon, and Auditd, enrichment strategies, MITRE mappings, and lab simulations to stress-test my detection logic.
 ### 16: https://github.com/wehr-to/incident-response-toolkit - A hands-on, scriptable, and documentation-driven incident response toolkit built for SOC analysts, blue teamers, and security engineers. This repo provides templates, playbooks, collection scripts, and checklists to streamline the investigation and containment of security incidents.
 ### 17: https://github.com/wehr-to/honeypot-labs - This repository provides a modular, containerized honeypot framework for safely simulating and capturing attacker activities using TCP, HTTP, and SSH honeypots.
+### 18: https://github.com/wehr-to/xdr-guide - A modular, plugin-friendly XDR engine for collecting, enriching, correlating, detecting, and responding to security events across multi-cloud and hybrid environments.
 
 ## Case-Studies
 ### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering

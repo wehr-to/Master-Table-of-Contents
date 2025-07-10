@@ -46,7 +46,7 @@
 ### 41: https://github.com/wehr-to/okta-ops-repo - This repository manages Okta configurations and operations securely using Terraform and Python automation.
 
 ## SIEM
-### 1: https://github.com/wehr-to/wazuh-scripts-toolkit - A collection of scripts, helpers, and automation tools for managing, tuning, and integrating Wazuh, This toolkit is designed for SOC analysts, security engineers, and homelabbers who want to automate Wazuh operations, debug rules, parse logs, and forward alerts with minimal friction.
+### 1: https://github.com/wehr-to/wazuh-scripts-toolkit - A collection of scripts, helpers, and automation tools for managing, tuning, and integrating Wazuh
 ### 2: https://github.com/wehr-to/TOR-Detection-Toolkit - This project provides a comprehensive, operationally-focused toolkit to detect, analyze, and mitigate malicious or unauthorized use of The Onion Router (TOR) within enterprise networks.
 ### 3: https://github.com/wehr-to/clamav-learning-lab - A hands-on, structured repository to learn ClamAV for malware scanning, signature writing, daemon usage, and automation.
 ### 4: https://github.com/wehr-to/splunk-ops-toolkit - Splunk Ops Toolkit is a field-ready, operations-focused repository built to help teams deploy, manage, and optimize Splunk in real-world environments.

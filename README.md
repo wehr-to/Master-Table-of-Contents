@@ -44,6 +44,10 @@
 ### 39: https://github.com/wehr-to/nginx-security-ops - This repository provides a structured, security-focused operational toolkit for managing, hardening, monitoring, and automating NGINX in production environments.
 ### 40: https://github.com/wehr-to/jira-ops-manual - Automate and enforce advanced Jira operations and hygiene for security teams to improve triaging, SLA tracking, and ticket hygiene within Jira environments.
 ### 41: https://github.com/wehr-to/okta-ops-repo - This repository manages Okta configurations and operations securely using Terraform and Python automation.
+### 42: https://github.com/wehr-to/bitlocker-toolkit - This repository provides a structured approach to BitLocker security engineering for automation, hardening, and operational management in your lab and production environments.
+### 43: https://github.com/wehr-to/kerberos-security-ops - This repository provides a structured, practical lab and operational toolkit for day-to-day security engineering, monitoring, detection engineering, and incident response focused on Kerberos environments.
+### 44: https://github.com/wehr-to/.NET-Windows - This repository is designed to help system administrators and analysts learn how the .NET Framework interacts with Windows internals through practical, lab-based utilities.
+### 45: https://github.com/wehr-to/ldap-learning - A structured repository to learn LDAP for Security Engineering
 
 ## SIEM
 ### 1: https://github.com/wehr-to/wazuh-scripts-toolkit - A collection of scripts, helpers, and automation tools for managing, tuning, and integrating Wazuh
@@ -106,6 +110,9 @@
 ### 21: https://github.com/wehr-to/authelia-ops-toolkit - Deploy and manage Authelia, a 2FA and identity provider service for protecting web applications behind reverse proxies.
 ### 22: https://github.com/wehr-to/debugging-case-study - This repository contains a structured, advanced computer science adjacent debugging code case study. It includes intentionally faulty modules, correct reference modules, edge case handlers, and layered structured experiments to demonstrate systematic debugging strategies.
 ### 23: https://github.com/wehr-to/owasp-zap-learning - This repository is designed to help you learn, practice, and automate web application security testing using OWASP ZAP, with structured labs, practical scripts, Docker environment, and CI/CD integrations.
+### 24: https://github.com/wehr-to/prompt-injection-toolkit - This repository is a Prompt Injection Toolkit for Security Engineers, enabling you to understand, simulate, detect, and mitigate prompt injection vulnerabilities in LLM-powered systems systematically.
+### 25: https://github.com/wehr-to/API-Security-Toolkit - A modular, scalable API Design & Security Toolkit to help security engineers design consistent, secure APIs, automate API security scanning, perform fuzz testing, and enforce secure API patterns.
+### 26: https://github.com/wehr-to/RestAPI-Appsec-ops - This repository is structured for systematic learning and practice of REST API security fundamentals, application security, and security engineering operations. It is intended to support hands-on testing, reusable tooling, and continuous integration of API security testing in engineering workflows.
 
 ## OffSec
 ### 1: https://github.com/wehr-to/JtR-Learning-Lab - A hands-on, structured repository to learn John the Ripper (JtR)
@@ -127,6 +134,7 @@
 ### 3: https://github.com/wehr-to/zero-trust-blueprint - This repository simulates a modern Zero Trust architecture across identity, device posture, network segmentation, access control, and telemetry. 
 ### 4: https://github.com/wehr-to/misconfig-sim-lab - This repository contains simulations of common cloud and infrastructure misconfigurations, and the tools, scripts, and detection logic used to uncover and prevent them.
 ### 5: https://github.com/wehr-to/aws-guardduty-threat-simulation-lab - Simulated unauthorized activity in AWS to evaluate GuardDuty detection and alerting. Includes high-level architecture, detection flow, and lessons learned from building a secure, automated cloud threat simulation lab using best practices.
+### 6: https://github.com/wehr-to/cloudflare-ops-security - This repository contains infrastructure as code, policy as code, detection engineering, and automation for Cloudflare security operations. It supports scalable deployment, policy consistency, and fast response for Cloudflare environments.
 
 ## Study-Guides
 ### 1: https://github.com/wehr-to/CCNA-Study-Guide - A proof-of-concept of my understanding of the CCNA exam material, with testing strategies, command lists, theory, and study material references 

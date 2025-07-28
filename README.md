@@ -70,7 +70,7 @@
 ### 18: https://github.com/wehr-to/xdr-guide - A modular, plugin-friendly XDR engine for collecting, enriching, correlating, detecting, and responding to security events across multi-cloud and hybrid environments.
 
 ## Case-Studies
-### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering
+### 1: https://github.com/wehr-to/Failure-Aware-Engineering - My flagship case study, this repository is my interpretation of proactive engineering practices, it explores how I approach problems through a proactive lens, with a focus on system design, tradeoffs, failure paths, and security first engineering while also understanding different veritcals such as healthcare, saas, fintech, etc
 ### 2: https://github.com/wehr-to/ciso-perspective-case-study - I built this to understand security from a CISO's lens, not only are the technicals important, but understanding business objectives is critical to seeing the bigger picture.
 ### 3: https://github.com/wehr-to/attack-type-case-study - a structured knowledge base focused on understanding cyber attack techniques across multiple domains including network security, web application security, cloud environments, social engineering, and advanced persistent threats (APTs).
 ### 4: https://github.com/wehr-to/tech-debt-security-case-study - This repo is a case study-driven exploration of how technical debt intersects with security and how to manage, reduce, or contain it when full rewrites aren't possible.

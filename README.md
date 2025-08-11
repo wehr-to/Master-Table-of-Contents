@@ -136,8 +136,7 @@
 ### 5: https://github.com/wehr-to/aws-guardduty-threat-simulation-lab - Simulated unauthorized activity in AWS to evaluate GuardDuty detection and alerting. Includes high-level architecture, detection flow, and lessons learned from building a secure, automated cloud threat simulation lab using best practices.
 ### 6: https://github.com/wehr-to/cloudflare-ops-security - This repository contains infrastructure as code, policy as code, detection engineering, and automation for Cloudflare security operations. It supports scalable deployment, policy consistency, and fast response for Cloudflare environments.
 
-## Study-Guides
-### 1: https://github.com/wehr-to/CCNA-Study-Guide - A proof-of-concept of my understanding of the CCNA exam material, with testing strategies, command lists, theory, and study material references 
+
 ### 2: https://github.com/wehr-to/CySA-Preparation-Guide - This repository is a comprehensive study guide for the CompTIA CySA+ certification (Exam Code: CS0-003). It is organized into key domains as per the official exam objectives.
 ### 3: https://github.com/wehr-to/SOC-Operations-Lab - A curated set of labs, categorized into three difficulty tiers in preparation for HTB and TryHackMe's SOC certifications
 ### 4: https://github.com/wehr-to/AWS-Sec-Specialty-Prep - This repository is designed to help systematically pass the AWS Certified Security Specialty and AWS Certified Solutions Architect Associate (SAA) exams. It contains organized notes, hands-on labs with CLI and CloudFormation, architecture best practices, and high-quality practice questions aligned with AWS exam domains.

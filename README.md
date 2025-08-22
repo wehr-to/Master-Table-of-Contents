@@ -1,4 +1,4 @@
-# Master-Table-of-Content
+# Master-Table-of-Contents
 
 ### A complete map of every repo I've built and why, covering **Infra**, **SIEM**, **OffSec**, **AppSec**, **Cloud**, **Case Studies**, tying into my learning goals
 
